@@ -1,0 +1,10 @@
+## Your company, name and email
+  * Yapp
+  * Stefan Penner
+  * stefan.penner@gmail.com
+
+## What would you like to learn about ruby concurrency?
+  * I would like to understand what can or needs to be done, to make concurrency truly a first class citizen in the ruby world.
+
+## What do you wish ruby did better for concurrency?
+  * I think the celluloid project has some great abstractions, I would love to see these abstractions be pushed into the language, or the language implementation should be optimized to improve the performance of such libaries.
