@@ -1,0 +1,11 @@
+Name: Ben Burton
+
+Company: Neo Innovation
+
+Email: ben@neo.com
+
+What would you like to learn about ruby concurrency?
+I haven't really looked into concurrency in Ruby, so I'm curious to see some examples.
+
+What do you wish ruby did better for concurrency?
+Again, not having looked into concurrency in Ruby I don't really know. It would be interesting to see if there's an actors model like Akka in Scala.
