@@ -1,0 +1,3 @@
+1) Kestrel-Boeing, Tim Johnson, gust@chubtoad.com
+2) Are there any tricks that I can use to get better performance out of ruby. Things like DRB? Resque/Job Queue systems? Or jRuby?
+3) Real threads that can execute concurrently would be a good start. Otherwise things mentioned above are a good way to get parrallelism.
