@@ -1,0 +1,13 @@
+Company: Pivotal Labs
+Name: Dennis Cahillane
+Email: dcahillane@pivotallabs.com
+
+What would you like to learn about ruby concurrency?
+
+How to avoid the race condition where you create an object, and try to
+grab the object from the database in an after_commit hook, and sometimes
+Rails can't find it.
+
+What do you wish ruby did better for concurrency?
+
+I wish the problem described above didn't exist.'
