@@ -1,0 +1,7 @@
+Gust, Michael Frederick, mike@gust.com
+
+
+*What would you like to learn about ruby concurrency?
+Potential optimizations to the GIL.
+*What do you wish ruby did better for concurrency?
+Native threading.
