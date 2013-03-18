@@ -1,0 +1,10 @@
+## Your company, name and email
+* Gust
+* Chien
+* chien@gust.com
+
+## What would you like to learn about ruby concurrency?
+* I'd like to know how can we apply ruby concurrency to web development
+
+## What do you wish ruby did better for concurrency?
+* Concurrency in Ruby is not the focus of the community like other language. Although ruby 1.9 support fiber, it still doesn't take full advantage of the power of multi-core CPUs.
