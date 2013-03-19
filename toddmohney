@@ -1,0 +1,11 @@
+Company: Gust
+Name: Todd Mohney
+Email: toddmohney@gmail.com
+
+What would you like to learn about concurrency?
+- Which of the flavors of Ruby demonstrate the most successful implementations of concurrency/parallelism?
+- What concurrency improvements have been introduced in Ruby 2.0?
+- How can Ruby's concurrency implementation be best applied to web development?
+
+What do you wish Ruby did better for concurrency?
+- I'm new to Ruby, so I don't yet have a strong opinion.
