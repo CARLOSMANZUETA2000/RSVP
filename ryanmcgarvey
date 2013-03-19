@@ -1,0 +1,7 @@
+1) Gust, Ryan McGarveYour, ryan@gust.com
+
+2) What would you like to learn about ruby concurrency?
+How do we solve transltions? How do we make rails more functional and less stateful?
+
+3) What do you wish ruby did better for concurrency?
+Figured out how to get rid of the GIL
