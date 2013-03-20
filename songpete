@@ -1,0 +1,13 @@
+Company, name and email:
+  - teamhomefield.com, vidprep.com
+  - Pete Song
+  - petesong@gmail.com
+
+What would you like to learn about ruby concurrency?
+  - What improvements to expect in 2.0
+  - Any differences between the various implementations (jruby, ironruby, etc)
+  - Comparisons with other languages that support concurrency (eg elixer).
+  - Thoughts about how hardware changes in the future (more cores, etc) might make languages with concurrency more important.
+
+What do you wish ruby did better for concurrency?
+  - Maybe having native threads for better performance.
