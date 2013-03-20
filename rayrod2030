@@ -1,0 +1,13 @@
+Company: Medidata Solutions
+Name: Ray Rodriguez
+Email: rarodriguez@mdsol.com
+
+What would you like to learn about ruby concurrency?
+
+What's new in 2.0 that might help towards making concurrent ruby programming a reality.
+
+Is there a roadmap in regards to where the core mri/jruby/etc... teams want to go with concurrnecy?
+
+What do you wish ruby did better for concurrency?
+
+Havne't done much concurrent programming in ruby so I have no wants yet.
