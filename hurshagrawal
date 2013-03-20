@@ -1,0 +1,7 @@
+Branch.com
+Hursh Agrawal
+h@hurshagrawal.com
+
+How ruby concurrency works. What are the best design patterns (actors? threads? evented?)?
+
+Haven't dabbled, so no idea what ruby could do better. Get rid of GIL?
